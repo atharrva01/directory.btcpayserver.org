@@ -1599,6 +1599,15 @@
     "country": "GLOBAL"
   },
   {
+    "name": "Weared",
+    "url": "https://weared.ch",
+    "description": "Swiss marketplace for worn underwear (18+). Sellers get paid directly in Bitcoin over Lightning via our self-hosted BTCPay Server — verified sellers, escrow, discreet shipping from Switzerland.",
+    "type": "merchants",
+    "subType": "adult",
+    "country": "CH",
+    "twitter": "@Wearedch"
+  },
+  {
     "name": "Wears My Liberty",
     "url": "https://wearsmyliberty.com/",
     "description": "Created in 2012 to give people the ability to help spread the message by wearing their liberty, this site sells T-shirts and tank-tops.",
